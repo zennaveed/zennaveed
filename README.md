@@ -1,38 +1,84 @@
-# 👋 Hi, I'm Naveed Hayat
+# Naveed Hayat
 
-I'm a **Data Scientist** passionate about transforming raw data into actionable insights, intelligent systems, and meaningful digital products.
-
-My work blends **machine learning, statistics, and AI engineering** — with an eye for real-world impact and a curiosity for how data can drive smarter design, automation, and user experience.
-
----
-
-### 🧠 Core Focus Areas
-
-- **Data Science & Analytics** – End-to-end data workflows: from cleaning and visualization to predictive modeling.  
-- **Machine Learning & AI** – Building and deploying models for decision intelligence, personalization, and automation.  
-- **Applied Development** – Creating data-driven tools and apps using Python and Streamlit for business and research use cases.  
-- **Game AI Research (Experimental)** – Exploring adaptive storytelling and procedural design powered by machine learning.
+**Python & Data Systems Engineer**  
+FastAPI • Statistics • Analytical Pipelines  
+📍 Lahore, Pakistan  
+📧 navidhayat26@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/naveed-hayat-65317429a/
 
 ---
 
-### ⚙️ Tech Stack
+## 👋 About Me
 
-**Languages:** Python, SQL  
-**Libraries & Frameworks:** Pandas, NumPy, Scikit-learn, Matplotlib, Plotly, Streamlit  
-**Data Handling:** MySQL, Excel, CSV, APIs  
-**Core Skills:** Data Wrangling, EDA, Machine Learning, Statistics, Predictive Analytics, Model Deployment  
-**Other Interests:** Game Development, Narrative Design, Data Visualization, AI Ethics
+I build practical, data-driven systems using Python, focusing on backend development, analytics, and ML-ready pipelines. My work sits at the intersection of **data science and software engineering**—turning raw data and analytical ideas into usable APIs and systems.
+
+I enjoy working close to logic and structure: designing clean pipelines, writing maintainable backend code, and applying statistics to real-world datasets.
 
 ---
 
-### 🚀 Current Projects
+## 🧠 Core Skills
 
-- **Zaheen** – Interactive **data visualization dashboard** built with Python, Streamlit, and Plotly.  
-- **AI-Powered Game Systems (Prototype)** – Researching how machine learning can enhance player experience through adaptive systems.  
-- **Sales Analytics Suite** – Custom tools for performance tracking, forecasting, and data-driven decision-making.
+**Programming & Backend**
+- Python
+- FastAPI
+- Data Structures & Algorithms (Linked Lists, Stacks, Queues)
+- MySQL
+- MongoDB (learning)
+
+**Data Science & Analytics**
+- Statistics
+- Data Analysis (Pandas, NumPy)
+- Data Visualization
+- Financial Data Analysis
+
+**Machine Learning & AI**
+- Machine Learning (beginner)
+- Deep Learning fundamentals
+- Applied AI concepts
+
+**Tools**
+- Git
+- Jupyter Notebook
+- VS Code
 
 ---
 
-### 🎯 Vision
+## 🛠️ Projects
 
-To build **AI-driven systems that understand context**, **predict intelligently**, and **communicate insights clearly** — bridging the gap between technical depth and practical application.
+### 📊 Cross-Asset Volatility Study
+**Tech:** Python, Statistics, Pandas  
+Explored correlations and volatility patterns across financial markets using statistical analysis and reproducible data pipelines.
+
+---
+
+## 📜 Certifications
+
+- **Artificial Intelligence** — IBM SkillBuild  
+  https://www.credly.com/badges/3f4d43ea-ee57-4dc2-b227-66f67129b838/public_url
+
+- **Introduction to Data Science** — Cisco  
+  https://www.credly.com/earner/earned/badge/19b0522b-1f71-48bc-8454-2bdfe5c43142
+
+- **Introduction to DevOps** — DataCamp  
+  https://www.datacamp.com/completed/statement-of-accomplishment/course/a92a27668481e1224cd423416b145dec55a91767
+
+---
+
+## 🎯 Current Focus
+
+- Building ML-ready backend systems with FastAPI
+- Strengthening machine learning foundations
+- Designing scalable analytical pipelines
+- Preparing for internship and early-career engineering roles
+
+---
+
+## 🤝 Open To
+
+- Internships (Data / Backend / ML-oriented)
+- Collaborative projects
+- Research-driven engineering work
+
+---
+
+> I value clarity, structure, and systems that work under real constraints.

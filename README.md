@@ -68,14 +68,6 @@ Explored correlations and volatility patterns across financial markets using sta
 - **Introduction to DevOps** — DataCamp  
   https://www.datacamp.com/completed/statement-of-accomplishment/course/a92a27668481e1224cd423416b145dec55a91767
 
----
-
-## 🎯 Current Focus
-
-- Building ML-ready backend systems with FastAPI
-- Strengthening machine learning foundations
-- Designing scalable analytical pipelines
-- Preparing for internship and early-career engineering roles
 
 ---
 

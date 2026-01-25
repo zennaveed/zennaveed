@@ -20,7 +20,6 @@ Data cleaning and validation
 Relational databases and SQL
 Writing clear documentation and reproducible code
 
-I am actively building hands-on projects and growing toward a Data Engineer role through consistent, production-style work.
 ---
 
 ## 🧠 Core Skills

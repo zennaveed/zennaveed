@@ -5,7 +5,7 @@ Applied Data Engineering | Python, SQL, FastAPI | Data Pipelines
 📍 Lahore, Pakistan  
 📧 navidhayat26@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/naveed-hayat-65317429a/)  
-🔗 [GitHub](https://github.com/yourusername)
+🔗 [GitHub](https://github.com/zennaveed)
 
 ---
 

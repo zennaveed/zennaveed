@@ -1,7 +1,7 @@
 # Naveed Hayat
 
-**Python & Data Systems Engineer**  
-FastAPI • Statistics • Analytical Pipelines  
+**Data Engineer**  
+Applied Data Engineering | Python, SQL, FastAPI | Data Pipelines
 📍 Lahore, Pakistan  
 📧 navidhayat26@gmail.com  
 🔗 LinkedIn: https://www.linkedin.com/in/naveed-hayat-65317429a/
@@ -10,10 +10,17 @@ FastAPI • Statistics • Analytical Pipelines
 
 ## 👋 About Me
 
-I build practical, data-driven systems using Python, focusing on backend development, analytics, and ML-ready pipelines. My work sits at the intersection of **data science and software engineering**—turning raw data and analytical ideas into usable APIs and systems.
+I am a Data Science student with a focused interest in Applied Data Engineering.
 
-I enjoy working close to logic and structure: designing clean pipelines, writing maintainable backend code, and applying statistics to real-world datasets.
+I work primarily with Python and SQL, building data pipelines that collect, clean, transform, and store data for analysis and decision-making. I also use FastAPI where appropriate to expose data and pipeline outputs.
 
+My current focus includes:
+ETL and analytical data pipelines
+Data cleaning and validation
+Relational databases and SQL
+Writing clear documentation and reproducible code
+
+I am actively building hands-on projects and growing toward a Data Engineer role through consistent, production-style work.
 ---
 
 ## 🧠 Core Skills

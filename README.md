@@ -9,7 +9,7 @@ Applied Data Engineering | Python, SQL, FastAPI | Data Pipelines
 
 ---
 
-## 👋 About Me
+## About Me
 
 I am a Data Science student specializing in **Applied Data Engineering**.  
 
@@ -23,7 +23,7 @@ Current focus areas:
 
 ---
 
-## 🧠 Core Skills
+## Core Skills
 
 **Data Engineering**
 - Python (ETL, data processing)  
@@ -47,9 +47,9 @@ Current focus areas:
 
 ---
 
-## 🛠️ Projects
+## Projects
 
-### 📊 Cross-Asset Volatility Data Pipeline
+### Cross-Asset Volatility Data Pipeline
 **Tech:** Python, SQL, Pandas, FastAPI  
 
 - Built a **modular pipeline** to ingest, clean, transform, and store historical market data across equities, commodities, crypto, and forex  
@@ -61,7 +61,7 @@ Current focus areas:
 
 ---
 
-## 📜 Certifications
+## Certifications
 
 - **Artificial Intelligence** — IBM SkillBuild  
   [Badge Link](https://www.credly.com/badges/3f4d43ea-ee57-4dc2-b227-66f67129b838/public_url)  

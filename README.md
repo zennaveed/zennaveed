@@ -1,7 +1,6 @@
 # Naveed Hayat
 
-**Aspiring Data Engineer**  
-Applied Data Engineering | Python, SQL, FastAPI | Data Pipelines  
+**AI Research Engineering Student**  
 📍 Lahore, Pakistan  
 📧 navidhayat26@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/naveed-hayat-65317429a/)  
@@ -11,29 +10,25 @@ Applied Data Engineering | Python, SQL, FastAPI | Data Pipelines
 
 ## About Me
 
-I am a Data Science student specializing in **Applied Data Engineering**.  
+I am an AI Research Engineering Student focused on applied research and scalable ML systems.
 
-I build **data pipelines** using Python and SQL to ingest, clean, transform, and store data for analytical and operational use. My work emphasizes **data quality, reproducibility, and modular architecture**, with FastAPI used selectively to expose processed data or trigger pipeline workflows.  
+I design, train, and deploy machine learning models with attention to real-world constraints such as compute limits, latency, and cost, using FastAPI and React for production-grade applications.
 
-Current focus areas:
-- ETL and analytical data pipelines  
-- Data cleaning and validation  
-- Relational database design and SQL  
-- Clear documentation and reproducible code
+My interests include deep learning, distributed training, and production ML infrastructure, with a long-term goal of turning research insights into robust, scalable products.
 
+I am open to research projects and internship opportunities that allow me to contribute to real-world ML systems while deepening my technical expertise.
 ---
 
 ## Core Skills
 
-**Data Engineering**
+**Data Science**
 - Python (ETL, data processing)  
-- SQL (MySQL, SQLite)  
-- Data Pipelines & Workflow Design  
-- Data Cleaning & Validation  
-- Relational Schema Design  
+- SQL (MySQL, SQLite) 
+- Sci-kit learn, PyTorch (Machine Learning)
 
 **Backend & APIs**
-- FastAPI (data serving, pipeline triggering)  
+- FastAPI (data serving, pipeline triggering)
+- React  
 
 **Analytics**
 - Pandas, NumPy  
@@ -76,7 +71,7 @@ Current focus areas:
 
 ## 🤝 Open To
 
-- Data Engineering internships  
+- Data Science internships  
 - Collaborative projects  
 - Research-driven applied engineering work  
 

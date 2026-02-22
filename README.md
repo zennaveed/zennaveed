@@ -1,80 +1,73 @@
-# Naveed Hayat
+# Hey, I'm Naveed Hayat 👋
 
-**AI Research Engineering Student**  
-📍 Lahore, Pakistan  
-📧 navidhayat26@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/naveed-hayat-65317429a/)  
-🔗 [GitHub](https://github.com/zennaveed)
+> AI Research & Engineering Student | Data Science @ Riphah International University
+
+I'm a Data Science student from Lahore, Pakistan focused on applied ML research, financial data analysis, and building production-grade intelligent systems. I enjoy bridging the gap between research and real-world deployment.
 
 ---
 
-## About Me
+## 🔧 Tech Stack
 
-I am an AI Research Engineering Student focused on applied research and scalable ML systems.
+**Languages & Frameworks**
+`Python` `FastAPI` `React` `Reflex`
 
-I design, train, and deploy machine learning models with attention to real-world constraints such as compute limits, latency, and cost, using FastAPI and React for production-grade applications.
+**Machine Learning**
+`Scikit-learn` `PyTorch` `K-Means` `Gaussian Mixture Models` `Random Forest` `Isolation Forest`
 
-My interests include deep learning, distributed training, and production ML infrastructure, with a long-term goal of turning research insights into robust, scalable products.
+**Data & Databases**
+`Pandas` `MySQL` `MongoDB`
 
-I am open to research projects and internship opportunities that allow me to contribute to real-world ML systems while deepening my technical expertise.
----
-
-## Core Skills
-
-**Data Science**
-- Python (ETL, data processing)  
-- SQL (MySQL, SQLite) 
-- Sci-kit learn, PyTorch (Machine Learning)
-
-**Backend & APIs**
-- FastAPI (data serving, pipeline triggering)
-- React  
-
-**Analytics**
-- Pandas, NumPy  
-- Statistical analysis  
-- Data visualization (Plotly, Matplotlib)  
-
-**Tools**
-- Git  
-- Jupyter Notebook  
-- VS Code  
+**Areas of Interest**
+`Deep Learning` · `MLOps` · `Financial ML` · `Production ML Infrastructure`
 
 ---
 
-## Projects
+## 🚀 Projects
 
-### Cross-Asset Volatility Data Pipeline
-**Tech:** Python, SQL, Pandas, FastAPI  
+### 📈 Cross-Asset Volatility Clustering
+> *Python · FastAPI · Scikit-learn · Pandas · K-Means · GMM · Random Forest · Gradient Boosting*
 
-- Built a **modular pipeline** to ingest, clean, transform, and store historical market data across equities, commodities, crypto, and forex  
-- Designed **structured SQL tables** for cross-asset analysis  
-- Applied **data validation and cleaning routines** to ensure dataset quality  
-- Implemented **rolling volatility computation and cross-asset correlation analysis**  
-- Exposed processed data via **FastAPI** for visualization and programmatic access  
-- Demonstrates **practical applications of data engineering**; ML for market regime detection is secondary  
+An academic-grade analytical system that identifies and analyzes volatility patterns across **equities, commodities, cryptocurrencies, and forex markets**.
 
----
-
-## Certifications
-
-- **Artificial Intelligence** — IBM SkillBuild  
-  [Badge Link](https://www.credly.com/badges/3f4d43ea-ee57-4dc2-b227-66f67129b838/public_url)  
-
-- **Introduction to Data Science** — Cisco  
-  [Badge Link](https://www.credly.com/earner/earned/badge/19b0522b-1f71-48bc-8454-2bdfe5c43142)  
-
-- **Introduction to DevOps** — DataCamp  
-  [Certificate Link](https://www.datacamp.com/completed/statement-of-accomplishment/course/a92a27668481e1224cd423416b145dec55a91767)
+- Applied K-Means and Gaussian Mixture Models to detect distinct market regimes
+- Built cross-asset correlation analysis with comprehensive evaluation metrics
+- Developed a FastAPI-powered web interface for real-time visualization of volatility clusters
+- Implemented modular architecture with robust data processing pipelines
 
 ---
 
-## 🤝 Open To
+### 📊 Zaheen — Open-Source Business Intelligence Platform
+> *Python · Streamlit · Pandas*
 
-- Data Science internships  
-- Collaborative projects  
-- Research-driven applied engineering work  
+An open-source BI tool that makes data exploration accessible to everyone — no code required.
+
+- Upload CSV and Excel datasets to generate interactive heatmaps, line charts, bar charts, scatter plots, and more
+- Designed for accessibility and usability by non-technical users
+- Planned for public open-source release to support the data science community
 
 ---
 
-> I value **clarity, structure, and reproducible systems** that work under real-world constraints.
+## 🎓 Education
+
+**B.Sc. Data Science** — Riphah International University, Lahore *(2023 – 2027)*
+
+*Relevant Coursework:* Machine Learning · Deep Learning · Data Structures & Algorithms · Database Systems · Statistical Analysis · Financial Data Analysis
+
+---
+
+## 📜 Certifications
+
+- 🎓 Introduction to Data Science — *Cisco Networking Academy*
+- 🛠 DevOps Concepts — *DataCamp*
+- 🤖 Artificial Intelligence — *IBM SkillsBuild*
+
+---
+
+## 📬 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Naveed%20Hayat-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/naveed-hayat)
+[![Gmail](https://img.shields.io/badge/Email-navidhayat26@gmail.com-EA4335?style=flat&logo=gmail)](mailto:navidhayat26@gmail.com)
+
+---
+
+*Currently seeking AI research internships and backend/MLOps engineering opportunities.*

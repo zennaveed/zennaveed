@@ -1,73 +1,114 @@
-# Hey, I'm Naveed Hayat 👋
+<div align="center">
 
-> AI Research & Engineering Student | Data Science @ Riphah International University
+```
+███╗   ██╗ █████╗ ██╗   ██╗███████╗███████╗██████╗
+████╗  ██║██╔══██╗██║   ██║██╔════╝██╔════╝██╔══██╗
+██╔██╗ ██║███████║██║   ██║█████╗  █████╗  ██║  ██║
+██║╚██╗██║██╔══██║╚██╗ ██╔╝██╔══╝  ██╔══╝  ██║  ██║
+██║ ╚████║██║  ██║ ╚████╔╝ ███████╗███████╗██████╔╝
+╚═╝  ╚═══╝╚═╝  ╚═╝  ╚═══╝  ╚══════╝╚══════╝╚═════╝
+```
 
-I'm a Data Science student from Lahore, Pakistan focused on applied ML research, financial data analysis, and building production-grade intelligent systems. I enjoy bridging the gap between research and real-world deployment.
+### Data Scientist · AI Engineer · ML Practitioner
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Naveed%20Hayat-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/naveed-hayat)
+[![GitHub](https://img.shields.io/badge/GitHub-zennaveed-181717?style=flat-square&logo=github)](https://github.com/zennaveed)
+[![Email](https://img.shields.io/badge/Email-Navidhayat26%40gmail.com-EA4335?style=flat-square&logo=gmail)](mailto:Navidhayat26@gmail.com)
+[![Location](https://img.shields.io/badge/📍-Lahore%2C%20Pakistan-green?style=flat-square)](https://en.wikipedia.org/wiki/Lahore)
 
-## 🔧 Tech Stack
-
-**Languages & Frameworks**
-`Python` `FastAPI` `React` `Reflex`
-
-**Machine Learning**
-`Scikit-learn` `PyTorch` `K-Means` `Gaussian Mixture Models` `Random Forest` `Isolation Forest`
-
-**Data & Databases**
-`Pandas` `MySQL` `MongoDB`
-
-**Areas of Interest**
-`Deep Learning` · `MLOps` · `Financial ML` · `Production ML Infrastructure`
+</div>
 
 ---
 
-## 🚀 Projects
+## 👋 About Me
 
-### 📈 Cross-Asset Volatility Clustering
-> *Python · FastAPI · Scikit-learn · Pandas · K-Means · GMM · Random Forest · Gradient Boosting*
+I'm a **Data Science student** at Riphah International University (graduating 2027) with hands-on experience building end-to-end ML pipelines, predictive models, and AI-powered APIs. I love turning raw, messy data into clear decisions — and shipping things that actually work.
 
-An academic-grade analytical system that identifies and analyzes volatility patterns across **equities, commodities, cryptocurrencies, and forex markets**.
-
-- Applied K-Means and Gaussian Mixture Models to detect distinct market regimes
-- Built cross-asset correlation analysis with comprehensive evaluation metrics
-- Developed a FastAPI-powered web interface for real-time visualization of volatility clusters
-- Implemented modular architecture with robust data processing pipelines
+- 🔬 Currently studying: **Machine Learning, Statistics, AI, Databases**
+- 🛠️ Building with: **Python · Scikit-learn · FastAPI · Pandas**
+- 🎯 Looking for: **AI Engineer · Data Scientist · Data Engineer** roles
+- 📍 Based in **Lahore, Pakistan**
 
 ---
 
-### 📊 Zaheen — Open-Source Business Intelligence Platform
-> *Python · Streamlit · Pandas*
+## 🧠 Tech Stack
 
-An open-source BI tool that makes data exploration accessible to everyone — no code required.
+### Languages & Databases
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-- Upload CSV and Excel datasets to generate interactive heatmaps, line charts, bar charts, scatter plots, and more
-- Designed for accessibility and usability by non-technical users
-- Planned for public open-source release to support the data science community
+### ML / AI
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
+
+`Machine Learning` `Predictive Modeling` `Feature Engineering` `Deep Learning (basics)` `NLP (basics)` `K-Means` `GMM` `Clustering`
+
+### APIs & Dev Tools
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+---
+
+## 🚀 Featured Project
+
+### 📊 Cross-Asset Volatility Clustering Across Financial Markets
+
+> Academic-grade analytical system for identifying volatility patterns across equities, commodities, cryptocurrencies, and forex markets.
+
+**Stack:** `Python` `Scikit-learn` `FastAPI` `Pandas` `NumPy`
+
+| Feature | Details |
+|---|---|
+| 🔍 Clustering | K-Means & Gaussian Mixture Models (GMM) for market regime detection |
+| 📈 Cross-Asset Analysis | Correlation analysis across equities, crypto, commodities & forex |
+| 📏 Evaluation Metrics | Silhouette Score, BIC, AIC |
+| 🌐 API | FastAPI-powered REST API with real-time cluster visualization |
+| 🏗️ Architecture | Modular, production-style with robust data ingestion & preprocessing pipelines |
 
 ---
 
 ## 🎓 Education
 
-**B.Sc. Data Science** — Riphah International University, Lahore *(2023 – 2027)*
-
-*Relevant Coursework:* Machine Learning · Deep Learning · Data Structures & Algorithms · Database Systems · Statistical Analysis · Financial Data Analysis
+**B.S. in Data Science** — Riphah International University, Lahore
+📅 Expected Graduation: **2027**
+📚 Relevant Coursework: Machine Learning · Statistics · Databases · Data Structures · AI
 
 ---
 
 ## 📜 Certifications
 
-- 🎓 Introduction to Data Science — *Cisco Networking Academy*
-- 🛠 DevOps Concepts — *DataCamp*
-- 🤖 Artificial Intelligence — *IBM SkillsBuild*
+| Certificate | Issuer | Year |
+|---|---|---|
+| 🤖 Artificial Intelligence | IBM / Credly | 2024 |
+| 📊 Introduction to Data Science | Cisco / Credly | 2024 |
+| 🐍 Python Programming | HackerRank | 2024 |
+| ⚙️ DevOps Concepts | DataCamp | 2024 |
+| 🌐 Introduction to IoT | Cisco / Credly | 2024 |
 
 ---
 
-## 📬 Let's Connect
+## 📈 GitHub Stats
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Naveed%20Hayat-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/naveed-hayat)
-[![Gmail](https://img.shields.io/badge/Email-navidhayat26@gmail.com-EA4335?style=flat&logo=gmail)](mailto:navidhayat26@gmail.com)
+<div align="center">
+
+![Naveed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zennaveed&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zennaveed&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff)
+
+</div>
 
 ---
 
-*Currently seeking AI research internships and backend/MLOps engineering opportunities.*
+<div align="center">
+
+*"Data is the new oil — I'm here to refine it."*
+
+⭐ **Open to collaborations, internships, and entry-level opportunities!**
+
+</div>

@@ -22,7 +22,7 @@
 
 ## 👋 About Me
 
-I'm a **Data Science student** at Riphah International University (graduating 2027) with hands-on experience building end-to-end ML pipelines, predictive models, and AI-powered APIs. I love turning raw, messy data into clear decisions — and shipping things that actually work.
+I'm a **Data Scientist** with hands-on experience building end-to-end ML pipelines, predictive models, and AI-powered APIs. I love turning raw, messy data into clear decisions — and shipping things that actually work.
 
 - 🔬 Currently studying: **Machine Learning, Statistics, AI, Databases**
 - 🛠️ Building with: **Python · Scikit-learn · FastAPI · Pandas**
@@ -53,33 +53,6 @@ I'm a **Data Science student** at Riphah International University (graduating 20
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
----
-
-## 🚀 Featured Project
-
-### 📊 Cross-Asset Volatility Clustering Across Financial Markets
-
-> Academic-grade analytical system for identifying volatility patterns across equities, commodities, cryptocurrencies, and forex markets.
-
-**Stack:** `Python` `Scikit-learn` `FastAPI` `Pandas` `NumPy`
-
-| Feature | Details |
-|---|---|
-| 🔍 Clustering | K-Means & Gaussian Mixture Models (GMM) for market regime detection |
-| 📈 Cross-Asset Analysis | Correlation analysis across equities, crypto, commodities & forex |
-| 📏 Evaluation Metrics | Silhouette Score, BIC, AIC |
-| 🌐 API | FastAPI-powered REST API with real-time cluster visualization |
-| 🏗️ Architecture | Modular, production-style with robust data ingestion & preprocessing pipelines |
-
----
-
-## 🎓 Education
-
-**B.S. in Data Science** — Riphah International University, Lahore
-📅 Expected Graduation: **2027**
-📚 Relevant Coursework: Machine Learning · Statistics · Databases · Data Structures · AI
-
----
 
 ## 📜 Certifications
 
